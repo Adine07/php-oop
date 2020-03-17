@@ -1,0 +1,14 @@
+{
+   "SE7+Gk765m4anEXEr1z6r1vbmryAKYPZ5SnEQG7atOM=": {
+      "expiry": 1615975671.783044,
+      "mode": "force-https",
+      "sts_include_subdomains": false,
+      "sts_observed": 1584439671.783047
+   },
+   "bvX4PpTCW5oYCQv3FySIixdkmM+paN/l+o4e/8K1m3o=": {
+      "expiry": 1615975646.122982,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1584439646.123
+   }
+}
