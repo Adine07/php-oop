@@ -289,3 +289,22 @@ Open repository: /var/www/html/webprogramming/oop
 > git for-each-ref --format %(refname) %(objectname) --sort -committerdate
 > git remote --verbose
 > git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git ls-files --stage -- /var/www/html/webprogramming/oop/tugas2/file5.php
+> git rev-parse master
+> git cat-file -s afcb10e41f6d48b2e76064813a4b0983a4d3613d
+> git rev-parse --symbolic-full-name master@{u}
+> git show :tugas2/file5.php
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
